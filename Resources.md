@@ -1,7 +1,5 @@
 ### Resources
 
-**Resources**
-
 [OpenSSL SSL Cert with Django](https://www.youtube.com/watch?v=dYdv6pkCufk)
 [SSL Working](https://www.youtube.com/watch?v=0yw-z6f7Mb4)
 
@@ -27,4 +25,14 @@
 
 [3WayHandshake](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
 
+## Crypto and Cyber Sec Playlist
 
+[Network Automation Professional Certificate by Arista Networks](https://www.linkedin.com/learning/paths/network-automation-professional-certificate-by-arista-networks?u=42288921)
+
+[Become an Ethical Hacker](https://www.linkedin.com/learning/paths/become-an-ethical-hacker?u=42288921)
+
+[Cryptography_1](https://www.linkedin.com/learning/ethical-hacking-cryptography-24328684/take-a-crack-at-cryptography?u=42288921)
+
+[Learning Cryptography and Network Security](https://www.linkedin.com/learning/learning-cryptography-and-network-security-24518359/keeping-information-safe?u=42288921)
+
+[Symmetric Cryptography Essential Training](https://www.linkedin.com/learning/symmetric-cryptography-essential-training-24667819/cryptography-is-everywhere?u=42288921)
