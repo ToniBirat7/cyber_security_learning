@@ -1,6 +1,7 @@
 ### Resources
 
 [OpenSSL SSL Cert with Django](https://www.youtube.com/watch?v=dYdv6pkCufk)
+
 [SSL Working](https://www.youtube.com/watch?v=0yw-z6f7Mb4)
 
 **OpenSSL  Blog**
